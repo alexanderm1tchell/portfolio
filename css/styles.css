@@ -1,0 +1,20 @@
+body {
+    background-color: #20426A;
+    color: white;
+    font-family: sans-serif;
+
+}
+.Picture-of-me {
+    width: 400px
+    
+}
+.Picture-of-me {
+    border-radius: 10px;
+}
+hr {
+    height: 5px;
+    background: black;
+}
+.Title-to-page {
+    text-align: center;
+}
